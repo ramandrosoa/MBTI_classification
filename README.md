@@ -1,1 +1,1 @@
-# MBTI_classification
+# MBTI types analysis and classification
