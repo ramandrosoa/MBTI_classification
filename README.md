@@ -1,6 +1,6 @@
 # MBTI Types Analysis and Prediction on Textual Data
 
-This repository contains a comprehensive analysis and classification of MBTI (Myers-Briggs Type Indicator) types based on textual data. The project focuses on extracting meaningful features from text and employing various machine learning algorithms to classify the data accurately.
+This [notebook](MBTI_NLP.ipynb) contains a comprehensive analysis and classification of MBTI (Myers-Briggs Type Indicator) types based on textual data. The project focuses on extracting meaningful features from text and employing various machine learning algorithms to classify the data accurately.
 
 ## Features Engineering
 
