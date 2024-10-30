@@ -54,4 +54,5 @@ Finally, predictions were made on textual data sourced from social media and dis
 ## References
 
 [Distribution of Personality Types in Percentages](https://personalitymax.com/personality-types/population-gender/)
+
 [Predicting Myers-Briggs Type Indicator with Text Classification](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6839354.pdf)
